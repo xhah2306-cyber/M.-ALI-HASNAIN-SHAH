@@ -1,6 +1,4 @@
-# M.-ALI-HASNAIN-SHAH
-Mechanical Engineering portfolio featuring SolidWorks CAD, Python, C++, and engineering projects.
-# Hi, I'm Ali Hasnain Shah 👋
+# Hi, I'm M. Ali Hasnain Shah 👋
 
 ### Mechanical Engineering Student | CAD Design | Programming
 
